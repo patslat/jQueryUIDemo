@@ -1,0 +1,25 @@
+// Place all the styles related to the root controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.big-box {
+    height: 500px;
+    width: 500px;
+    border: 10px solid red;
+    background-color: yellow;
+
+}
+
+.small-box {
+    height: 250px;
+    width: 250px;
+    border: 5px solid blue;
+    background-color: purple;
+}
+
+.tiny-circle {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black 50px;
+    background-color: green;
+}
